@@ -1,2 +1,18 @@
-# League_of_Legends_Analysis_of_Numbers_and_Trends
-The project involved analyzing data related to League of Legends and its popularity in the esports scene, with a particular focus on the 2023 World Championship. The project utilized web scraping techniques and data visualization to present the findings.
+# **Analiza liczb i trendów w grze League of Legends**
+
+## **Opis projektu**
+Projekt dotyczy analizy popularności gry *League of Legends* w kontekście e-sportu, ze szczególnym uwzględnieniem **Mistrzostw Świata 2023**. Analizowane były trendy w liczbie graczy, demografia, wyniki turniejów oraz statystyki oglądalności.
+
+Projekt został zrealizowany w ramach przedmiotu **"Metody pozyskiwania i wizualizacji danych"**, wykorzystując język **R** do przetwarzania i wizualizacji danych.  
+
+## **Pozyskiwanie danych**
+Dane zostały pobrane przy użyciu **web scrapingu** z renomowanych serwisów e-sportowych. Analizowane informacje obejmują:  
+- Liczbę graczy na przestrzeni lat  
+- Wyniki turniejów e-sportowych  
+- Statystyki oglądalności głównych wydarzeń  
+- Demografię graczy
+
+## **Wizualizacja danych**
+W celu przedstawienia wyników wykorzystano różne techniki wizualizacji, takie jak:   
+- Wykresy słupkowe porównujące oglądalność turniejów  
+- Tabele podsumowujące kluczowe statystyki 
