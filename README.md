@@ -1,5 +1,7 @@
 # **Analiza liczb i trendów w grze League of Legends**
 
+[Raport](https://bartoszoleszek.github.io/League_of_Legends_Analysis_of_Numbers_and_Trends/Projekt.html)
+
 ## **Opis projektu**
 Projekt dotyczy analizy popularności gry *League of Legends* w kontekście e-sportu, ze szczególnym uwzględnieniem **Mistrzostw Świata 2023**. Analizowane były trendy w liczbie graczy, demografia, wyniki turniejów oraz statystyki oglądalności.
 
